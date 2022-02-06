@@ -1,5 +1,5 @@
 # ToDo_list
-To run bot node.js and react
+To run both node.js and react
 npm start
 
 node.js
